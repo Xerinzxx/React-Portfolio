@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22337fdc.chunk.css",
+    "main.js": "/static/js/main.08b49482.chunk.js",
+    "main.js.map": "/static/js/main.08b49482.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b584fe3d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b584fe3d.js.map",
+    "static/js/2.b22793ad.chunk.js": "/static/js/2.b22793ad.chunk.js",
+    "static/js/2.b22793ad.chunk.js.map": "/static/js/2.b22793ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f12914c882de6dedf7a63591387c7bc.js": "/precache-manifest.2f12914c882de6dedf7a63591387c7bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.22337fdc.chunk.css.map": "/static/css/main.22337fdc.chunk.css.map",
+    "static/js/2.b22793ad.chunk.js.LICENSE.txt": "/static/js/2.b22793ad.chunk.js.LICENSE.txt",
+    "static/media/azure.3195ba38.svg": "/static/media/azure.3195ba38.svg",
+    "static/media/css.43bab1d3.svg": "/static/media/css.43bab1d3.svg",
+    "static/media/docker.4fdb93e8.svg": "/static/media/docker.4fdb93e8.svg",
+    "static/media/firebase.bfa69c4f.svg": "/static/media/firebase.bfa69c4f.svg",
+    "static/media/git.8aec9015.svg": "/static/media/git.8aec9015.svg",
+    "static/media/html.03a8c63d.svg": "/static/media/html.03a8c63d.svg",
+    "static/media/jenkins.aefb563e.svg": "/static/media/jenkins.aefb563e.svg",
+    "static/media/kubernetes.b373ef75.svg": "/static/media/kubernetes.b373ef75.svg",
+    "static/media/mongodb.2aa7f7b5.svg": "/static/media/mongodb.2aa7f7b5.svg",
+    "static/media/nodejs.94cafb0d.svg": "/static/media/nodejs.94cafb0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b584fe3d.js",
+    "static/js/2.b22793ad.chunk.js",
+    "static/css/main.22337fdc.chunk.css",
+    "static/js/main.08b49482.chunk.js"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "SRINIVAS YEDIDA",
+    "occupation": "Cloud DevOps Engineer",
+    "description": "Cloud and DevOps Engineer by day, cloud tamer by night. I spend my time convincing servers to behave and pipelines to flow smoothly. Whether I’m debugging with a cup of coffee or crafting Ansible playbooks with a touch of magic, I’m here to keep the cloud in check. Fluent in Linux, Python, and the occasional witty comment during stand-ups.",
+    "image": "profile_pic.png",
+    "bio": "My name is Srinivas but I go by my last name Yedida, I'm a Cloud DevOps Engineer. I was born and raised in Gangavathi, Karnataka but now I work in Hyderabad India",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "Srinivasy369@gmail.com",
+    "phone": "+919480xxxxxx",
+    "address": {
+      "street": "Habsiguda",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500032"
+    },
+    "website": "https://srinivasy369.netlify.app/",
+    "resumedownload": "/Srinivasyedida.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/Srinivasy369",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "ttps://linkedin.com/in/srinivasy369/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/srinivas_yedida369/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Xerinzxx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Cloud wrangler, automation ninja, container conjurer, CI/CD wizard, security guru, and master of the quick fix.",
+    "education": [
+      {
+        "school": "Basaveshwar Engineering College",
+        "degree": "Bachelor of Computer Science Engineering",
+        "graduated": "2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services (TCS) | Hyderabad, India",
+        "title": "Senior Cloud/DevOps Engineer",
+        "years": "Jan 2023 - Present",
+        "description": "Technologies & Tools: CICD, Python Scripting, Jenkins, Gerrit, Jira, Confluence, Zabbix, Ansible, Docker, Podman, Linux, Windows, K8s, Terraform, Monitoring."
+      },
+      {
+        "company": "Tata Consultancy Services (TCS) | Hyderabad, India",
+        "title": "Cloud/DevOps Engineer",
+        "years": "Aug 2018 - Dec 2022",
+        "description": "Technologies & Tools: CICD, Python Scripting, Jenkins, Gerrit, Jira, Confluence, Zabbix, Ansible, Docker, Podman, Linux, Windows, Monitoring."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Azure,AWS,GCP",
+        "level": "90%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "80%"
+      },
+      {
+        "name": "Ansible",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "60%"
+      },
+      {
+        "name": "Terraform",
+        "level": "60%"
+      },
+      {
+        "name": "Linux & Windows",
+        "level": "80%"
+      },
+      {
+        "name": "Jira & Confluence",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Github Repo",
+        "category": "Work in Progress",
+        "image": "pumpt-app.png",
+        "url": "http://github.com/Xerinzxx"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Srinivas Yedida must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "--Unknown"
+      },
+      {
+        "text": "Srinivas Yedida is a highly skilled DevOps Engineer who consistently delivers outstanding results. His expertise in cloud and automation has greatly improved our processes, and he’s always ready to tackle challenges with a positive attitude.",
+        "user": "--Unknown"
+      },
+      {
+        "text": "Srinivas is a dedicated and knowledgeable DevOps professional. His ability to simplify complex tasks and his strong work ethic have been crucial to our team’s success. He’s a true asset to any project.",
+        "user": "--Unknown"
+      },
+      {
+        "text": "Srinivas has an impressive grasp of DevOps and cloud technologies. His quick problem-solving skills and proactive approach have made a significant impact on our workflow and project timelines.",
+        "user": "--Unknown"
+      }
+    ]
+  }
+}
