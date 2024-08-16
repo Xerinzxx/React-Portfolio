@@ -2,7 +2,7 @@
 
 ## 👇 WATCH THIS FIRST 👇
 
-## <a href="https://Srinivasy369.netlify.app/">LIVE DEMO</a>
+## <a href="https://srinivasyedida-portfolio.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template
