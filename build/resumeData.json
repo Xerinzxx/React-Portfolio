@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "SRINIVAS YEDIDA",
+    "name": "Srinivas Yedida",
     "occupation": "Cloud DevOps Engineer",
     "description": "Cloud and DevOps Engineer by day, cloud tamer by night. I spend my time convincing servers to behave and pipelines to flow smoothly. Whether I’m debugging with a cup of coffee or crafting Ansible playbooks with a touch of magic, I’m here to keep the cloud in check. Fluent in Linux, Python, and the occasional witty comment during stand-ups.",
     "image": "profile_pic.png",
@@ -9,7 +9,7 @@
     "email": "Srinivasy369@gmail.com",
     "phone": "+919480xxxxxx",
     "address": {
-      "street": "Habsiguda",
+      "street": "Street no.8 Habsiguda",
       "city": "Hyderabad",
       "state": "Telangana",
       "zip": "500032"
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Cloud wrangler, automation ninja, container conjurer, CI/CD wizard, security guru, and master of the quick fix.",
+    "skillmessage": "Cloud ninja, automation guru, container ace, CI/CD expert, security master.",
     "education": [
       {
         "school": "Basaveshwar Engineering College",
@@ -109,8 +109,8 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Github Repo",
-        "category": "Work in Progress",
+        "title": "Github",
+        "category": "Github Repos",
         "image": "pumpt-app.png",
         "url": "http://github.com/Xerinzxx"
       }
